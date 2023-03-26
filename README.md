@@ -1,4 +1,4 @@
 # web-bucin
 
 
-* Example? <a href="//bucin.clph.me">Click Here</a>
+* Example? <a href="//ily.skayx.my.id">Click Here</a>
